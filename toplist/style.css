@@ -1,0 +1,22 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.title {
+	background-color: rgb(51, 190, 190);
+}
+.app {
+	display: flex;
+}
+.screenshot {
+	max-width: 460px;
+
+}
+.description {
+	max-width: 705px;
+	padding-left: 20px;
+
+}
