@@ -1,0 +1,10 @@
+Websites:
+udacity.com
+http://www.w3schools.com
+https://www.google.com/imghp
+http://jsonlint.com/
+http://jsbeautifier.org/
+http://www.digitalcoding.com/tools/
+
+
+
